@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shivam/Projects/WebAssignment1/WebAssignment1/WebAssignment1.csproj",
+      "projectUniqueName": "/Users/shivam/cambrian/Web/Web1001-Shivam/WebAssignment1/WebAssignment1.csproj",
       "projectName": "WebAssignment1",
-      "projectPath": "/Users/shivam/Projects/WebAssignment1/WebAssignment1/WebAssignment1.csproj",
+      "projectPath": "/Users/shivam/cambrian/Web/Web1001-Shivam/WebAssignment1/WebAssignment1.csproj",
       "packagesPath": "/Users/shivam/.nuget/packages/",
-      "outputPath": "/Users/shivam/Projects/WebAssignment1/WebAssignment1/obj/",
+      "outputPath": "/Users/shivam/cambrian/Web/Web1001-Shivam/WebAssignment1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/shivam/.nuget/NuGet/NuGet.Config"
